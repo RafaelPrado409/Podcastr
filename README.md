@@ -19,7 +19,9 @@
 
 **Podcastr** is plataform where you can listening podcasts that you like.
 
+- Project made up in Next Level Week #5 by Rocketseat.
 - Was made up with NextJS to use Server Side Rendenring and Static Generation pages.
+- The backend was simulate with json using the json-server lib.
 - You can handle the podcasts episode time with a slider.
 - You can skip or rewind the episodes.
 - You can repeat or shuffle the episodes.
