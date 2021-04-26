@@ -10,6 +10,27 @@
 ![Next](https://img.shields.io/badge/Next-07405E?style=for-the-badge&logo=next.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=Sass&logoColor=Red)
 
+
+<img src="https://i.imgur.com/2akGXQ3.png?1" alt="Podcastr" />
+
+### You can view the remaining images in my [Figma](https://www.figma.com/file/KCRDzrmuv0l6tjdu69EC45/Untitled?node-id=0%3A1)
+
+## About Podcastr
+
+**Podcastr** is plataform where you can listening podcasts that you like.
+
+- You can handle the podcasts episode time with a slider.
+- You can skip or rewind the episodes.
+- You can repeat or shuffle the episodes.
+- You can acess the episode to view the description.
+
+## 💻 Prerequisites
+
+Before start, check if you attend the following requisites:
+* You installed the LTS [NodeJS](https://nodejs.org/en/) version?
+* You installed [VSCode](https://code.visualstudio.com/)?
+* You installed the latest [Git](https://git-scm.com/) version?
+
 # 📝 Licença
 
 This project is license. Check the file [LICENSE](LICENSE.md) for more details
