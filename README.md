@@ -19,6 +19,7 @@
 
 **Podcastr** is plataform where you can listening podcasts that you like.
 
+- Was made up with NextJS to use Server Side Rendenring and Static Generation pages.
 - You can handle the podcasts episode time with a slider.
 - You can skip or rewind the episodes.
 - You can repeat or shuffle the episodes.
@@ -28,8 +29,35 @@
 
 Before start, check if you attend the following requisites:
 * You installed the LTS [NodeJS](https://nodejs.org/en/) version?
-* You installed [VSCode](https://code.visualstudio.com/)?
+* You installed a editor like [VSCode](https://code.visualstudio.com/)?
 * You installed the latest [Git](https://git-scm.com/) version?
+
+## 🚀 Installing Podcastr
+
+To install **Podcastr**, follow the next steps:
+
+In your terminal:
+
+```
+# Clone this repository
+git clone git@github.com:RafaelPrado409/Podcastr.git
+```
+```
+# Acess Podcastr folder
+cd Podcastr
+```
+```
+# Install de dependencies
+npm install
+```
+```
+# Run the project
+npm run dev
+
+and 
+
+npm run server [to run json-server]
+```
 
 # 📝 Licença
 
